@@ -13,5 +13,5 @@ Then, in your module defintion file (.gwt.xml), add the following lines
     <define-linker name="simple" class="delight.gwt.simplelinker.SimpleLinker" />
     <add-linker name="simple" />
     
-   
+
  
