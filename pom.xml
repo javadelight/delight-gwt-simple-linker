@@ -4,8 +4,10 @@
 	<version>0.0.2-SNAPSHOT</version>
 	<description>A simple linker for using GWT on the server side.</description>
 	
+	
 	<url>https://github.com/javadelight/delight-gwt-simple-linker</url>
 	<properties>
+		<gwtVersion>2.5.1</gwtVersion>
 		<module.gwtVersion>2.5.1</module.gwtVersion>
 		<module.importedPackages>
 			org.junit,
