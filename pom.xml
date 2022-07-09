@@ -7,7 +7,7 @@
 	
 	<url>https://github.com/javadelight/delight-gwt-simple-linker</url>
 	<properties>
-		<gwtVersion>2.8.2</gwtVersion>
+		<gwtVersion>2.10.0</gwtVersion>
 		<module.gwtVersion>2.8.2</module.gwtVersion>
 		<module.importedPackages>
 			org.junit,
